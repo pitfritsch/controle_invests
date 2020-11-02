@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "881272511771",
+    "firebase_url": "https://controle-invests.firebaseio.com",
+    "project_id": "controle-invests",
+    "storage_bucket": "controle-invests.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881272511771:android:381f5d58ef431e4ed2c7be",
+        "android_client_info": {
+          "package_name": "com.example.controle_invests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881272511771-fd8cc1qm9lo3u4tqiesm1sgapv42m989.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAamJYKdodB5phwsrnkFLWlxHFILo9D188"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881272511771-fd8cc1qm9lo3u4tqiesm1sgapv42m989.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
